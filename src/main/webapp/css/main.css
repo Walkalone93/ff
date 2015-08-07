@@ -1,0 +1,61 @@
+body {
+    background-color:#CD853F;
+}
+
+#menu {
+    width:120px;
+    height:1000px;
+    float:left;	 
+    text-align:center;
+}
+
+#incoming {
+    line-height:30px;
+    width:450px;
+    height:1000px;
+    float:left;
+    background-color:#EEE8AA;
+    padding-left:10px;	
+    padding-right:10px;	
+    float:left;
+}
+
+#spending {
+    line-height:30px;
+    width:450px;
+    height:1000px;
+    float:left;
+    background-color:#EEE8AA;
+    padding-left:10px;	
+    margin-left:30px;	
+    float:left;
+}
+
+.b-container{
+    width:100px;
+    height:150px;
+    background-color: #ccc;
+    margin:0px auto;
+    padding:10px;
+    font-size:30px;
+    color: #fff;
+}
+.b-popup{
+    padding-right:100px; 
+    width:100%;
+    min-height:100%;
+    background-color: rgba(100,100,100,0.5);
+    overflow:hidden;
+    position:fixed;
+    top:0px;
+}
+.b-popup .b-popup-content{
+    margin-top:50px;
+    margin-left:420px;
+    width:310px;
+    height: 300px;
+    padding:10px;
+    background-color: #c5c5c5;
+    border-radius:5px;
+    box-shadow: 0px 0px 10px #000;
+}

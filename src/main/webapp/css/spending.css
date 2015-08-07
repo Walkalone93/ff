@@ -1,0 +1,15 @@
+#datepickerInc{
+    width:80px;
+}
+#key {
+    width: 80px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    margin:15px;
+    width: 420px;
+    text-align: center;
+}
+
+.highlight { background-color: #8888FF }

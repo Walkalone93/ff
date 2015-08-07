@@ -1,0 +1,38 @@
+body {
+    background-color:#EEE8AA;
+}
+.date{
+    width: 70px;
+}
+
+#myChart{
+    width:450px;
+    height: 400px;
+}
+
+#chartDiv {
+    width:450px;
+    float:left;	      
+}
+
+table, td, th {
+    width:370px;
+    border: 1px solid black;
+    text-align: center;
+}
+#tableInc {
+    width:370px;
+    float:left;
+    padding-left:10px;
+}
+#tableSpend {
+    width:370px;
+    float:left;
+    padding-left:10px;	 	 
+}
+.fontInc {
+    color:green;
+}
+.fontSpend {
+    color:red;
+}
